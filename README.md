@@ -1,3 +1,9 @@
+
+![rick-and-morty-pc-4k-in-space-ks9x4010rl0fycrb](https://github.com/user-attachments/assets/0f3a06d4-6bc3-44ea-a57d-e17c14aa730d)
+
+
+
+
 <h1 align="center">olá, eu sou o Rafael</h1>
 <h3 align="center">um recém apaixonado em programação que que esta cursando Analise e desenvolvimento de sistema no IFSP de Bragança Paulista</h3>
 
