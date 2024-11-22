@@ -12,6 +12,7 @@
 - 📫 como falar comigo **rafinha.torralba@gmail.com**
 
 - ⚡ fato curioso **o meu primeiro "hello world" falhou😢**
+- ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
