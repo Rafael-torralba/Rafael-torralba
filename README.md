@@ -14,6 +14,17 @@
 - ⚡ fato curioso **o meu primeiro "hello world" falhou😢**
 - ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-torralba&show_icons=true&theme=radical)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rafael-torralba-3aa419323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rafael-torralba-3aa419323" height="30" width="40" /></a>
